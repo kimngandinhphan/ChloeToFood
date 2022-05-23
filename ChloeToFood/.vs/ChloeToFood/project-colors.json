@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "78f7f4b1-fc09-4436-84e0-2581b657b29f": {
+      "ProjectGuid": "78f7f4b1-fc09-4436-84e0-2581b657b29f",
+      "DisplayName": "ChloeToFood",
+      "ColorIndex": 0
+    },
+    "d8a5a12d-ab47-4955-9c38-b4b5360f5812": {
+      "ProjectGuid": "d8a5a12d-ab47-4955-9c38-b4b5360f5812",
+      "DisplayName": "ChloeToFood.Core",
+      "ColorIndex": 1
+    },
+    "83d332c5-0d56-4cb4-a412-56135200612b": {
+      "ProjectGuid": "83d332c5-0d56-4cb4-a412-56135200612b",
+      "DisplayName": "ChloeToFood.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
